@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: block;
+    height: fit-content;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+div {
+    background-color: hsl(0, 0%, 100%);
+    display: block;
+    text-align: center;
+    height: 400px;
+    width: 250px;
+}
+
+.center{
+    margin: auto;
+    padding: 10px;
+    border-radius: 6%;
+    box-shadow: 1px 1px 40px rgb(186, 186, 186);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+    margin-top: 5%;
+    height: 50%;
+    width: 90%;
+}
+
+h1 {
+    font-size: 15px;
+    margin: 15PX;
+}
+
+p {
+    font-display: flex;
+    font-size: 15pX;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+}
+
